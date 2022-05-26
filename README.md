@@ -17,6 +17,6 @@ facts and the home page.
 
 - layout
 - colour
-  - the colours i have chosen as the backround were chosen because they went best with the pistures in my opinion.
+  -the colours i have chosen as the backround were chosen because they went best with the pictures in my opinion.
 - font(s)
 - navigation (site map)
