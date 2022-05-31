@@ -16,10 +16,10 @@ facts and the home page.
 ### my design process
 
 - layout
- * the layout i chose was chosen because it it is simple but easy to know where to go
+  * the layout i chose was chosen because it it is simple but easy to know where to go
 - colour
- * the colours i have chosen as the backround were chosen because they went best with the pictures in my opinion.
+  * the colours i have chosen as the backround were chosen because they went best with the pictures in my opinion.
 - font(s)
- * the fonts i used where easy to read(in my opinion)
+  * the fonts i used where easy to read(in my opinion)
 - videos
- * the videos showed a bit about two pizzas being made and the front of a store.
+  * the videos showed a bit about two pizzas being made and the front of a store.
