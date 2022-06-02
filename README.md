@@ -18,8 +18,11 @@ facts and the home page.
 - layout
   * the layout i chose was chosen because it it is simple but easy to know where to go
 - colour
-  * the colours i have chosen as the backround were chosen because they went best with the pictures in my opinion.
+  * the colours i have chosen as the backround were the best as they fit lots of the pictures (in my opinion)
+  * the **website** i used for this is (**colorexplorer.com**)(http://www.colorexplorer.com/imageimport.aspx)
 - font(s)
   * the fonts i used where easy to read(in my opinion)
 - videos
   * the videos showed a bit about two pizzas being made and the front of a store.
+
+<a href="task"><image src="?raw=true" title="the task"
