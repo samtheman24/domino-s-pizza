@@ -1,7 +1,7 @@
 # welcome to my dominos page!
 
  ### members of the dev team
-- samuel jones
+- samuel R jones
 - dominos pizza
 
 ### about my project
