@@ -27,4 +27,5 @@ facts and the home page.
 <a href="task"><image src="https://github.com/samtheman24/domino-s-pizza/blob/main/screenshots/mainscreen.png?raw=true" title="the task" width=950>
 
  
- feedback from a peer
+ #### feedback from a peer:
+ The Website looked good and had some interesting facts. It also had some good pictures and videos but the homepage was a little bland.
