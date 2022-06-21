@@ -24,3 +24,4 @@ facts and the home page.
   * The pictures i put in the website were put there because they showed some appitizing pizzas, the logo of the store and the front of the store.
 - layout
   * This is the layout of the homepage.
+<a href="task"><image src
