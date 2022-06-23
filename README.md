@@ -28,4 +28,4 @@ facts and the home page.
 
  
  #### feedback from a peer:
- The Website looked good and had some interesting facts. It also had some good pictures and videos but the homepage was a little bland.
+ The Website looked good and had some interesting facts. It had some good pictures on the images page and the home page and also had some good videos.
