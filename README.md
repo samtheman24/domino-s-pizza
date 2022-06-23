@@ -13,6 +13,7 @@ It also provides a few pictures and videos of the pizzas they make,
 the logo etc. The website also provides a Te Reo Maori version of the
 facts and the home page.
 
+the three websites I tested my websites on were: chrome, firefox and microsoft edge. They all seemed to work the same and nothing went wrong with the websites.
 ### my design process
 
 - Colour
@@ -29,4 +30,4 @@ facts and the home page.
  
  #### feedback from a peer:
  The Website looked good and had some interesting facts. It had some good pictures on the images page and the home page and also had some good videos.
-the three websites I tested my websites on were: chrome, firefox and microsoft edge. They all seemed to work the same and nothing went wrong with the websites.
+
