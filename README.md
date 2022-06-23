@@ -28,6 +28,6 @@ the three websites I tested my websites on were: chrome, firefox and microsoft e
 <a href="task"><image src="https://github.com/samtheman24/domino-s-pizza/blob/main/screenshots/mainscreen.png?raw=true" title="the task" width=950>
 
  
- #### feedback from a peer:
+ #### feedback from a peer (alex gray):
  The Website looked good and had some interesting facts. It had some good pictures on the images page and the home page and also had some good videos.
 
